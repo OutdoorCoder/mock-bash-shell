@@ -1,6 +1,7 @@
 # mock-bash-shell
 A minature bash shell I created in an operating systems course I took at EWU.
 To compile files from command line type: make
+
 Next, to access the shell enter in: ./mysh
 
 Commands and features implemented in minature shell:
